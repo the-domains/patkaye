@@ -6,9 +6,9 @@ color:
   saturation: 0.32966215373016894
   rhythmicContrast: 0.6893882546573877
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#A20000'
+    - '#000000'
+    - '#1C0000'
+    - '#740000'
+    - '#440000'
 name: patkaye
