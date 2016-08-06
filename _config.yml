@@ -14,7 +14,7 @@ typography_spectrum: 0.7056022393517196
 color:
   saturation: 1
   brandStrength: 0.9676892231218517
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#A20000'
     - '#000000'
@@ -22,5 +22,5 @@ color:
     - '#740000'
     - '#440000'
   rhythmicContrast: 1
-layout_spectrum: 0.2004707367159426
+layout_spectrum: 0.7914894
 name: patkaye
