@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-06T22:01:04.412Z'
+datePublished: '2016-08-06T22:09:06.707Z'
 sourcePath: _posts/2016-08-06-lack-of-budget.md
 isBasedOnUrl: 'http://www.google.com'
 author: []
 via: {}
-dateModified: '2016-08-06T22:00:17.538Z'
+dateModified: '2016-08-06T22:09:06.285Z'
 title: LACK OF BUDGET
 publisher: {}
 description: ''
