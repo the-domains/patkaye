@@ -10,18 +10,18 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.7056022393517196
+typography_spectrum: 0.9783241045661271
 color:
-  saturation: 1
-  brandStrength: 0.9676892231218517
-  lightness: 0
+  saturation: 0.5096053252927959
+  brandStrength: 0.15438150288537145
+  lightness: 0.6173969449009746
   brandColors:
-    - '#A20000'
-    - '#000000'
-    - '#1C0000'
-    - '#740000'
-    - '#440000'
-  rhythmicContrast: 1
-layout_spectrum: 0.7914894
+    - '#A40000'
+    - '#010001'
+    - '#FFFEFF'
+    - '#A8A7A8'
+    - '#C65F5F'
+  rhythmicContrast: 0.21779201459139585
+layout_spectrum: 0.34232451650314033
 name: PAT-K
 title: LACK OF BUDGET
