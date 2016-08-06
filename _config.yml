@@ -1,14 +1,26 @@
-layout_spectrum: 0.20047073671594262
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.7056022393517196
 color:
+  saturation: 1
   brandStrength: 0.9676892231218517
-  lightness: 0.49849805887788534
-  saturation: 0.02975073060952127
-  rhythmicContrast: 0.3381784954108298
+  lightness: 1
   brandColors:
     - '#A20000'
     - '#000000'
     - '#1C0000'
     - '#740000'
     - '#440000'
+  rhythmicContrast: 1
+layout_spectrum: 0.2004707367159426
 name: patkaye
