@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[PAT-K]]></title>
+        <description><![CDATA[PAT-K]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 15:26:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LACK OF BUDGET]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f78e4136-3953-4f67-abd7-c9244db3aa0d.png">]]></description>
+            <link>http://www.google.com</link>
+            <guid isPermaLink="false">5646e0bd-de20-437b-9e82-f12d48c39e6d</guid>
+            <pubDate>Tue, 09 Aug 2016 15:26:49 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
