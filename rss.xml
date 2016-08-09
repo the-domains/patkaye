@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PAT KAYE]]></title>
         <description><![CDATA[PAT KAYE]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/patkaye/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Aug 2016 15:43:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Aug 2016 15:49:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patkaye/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/873e3528-1ff1-47fb-8435-b007a27f60f0.jpg">]]></description>
-            <link>undefinede4a87322-13e7-492e-a732-bba9088b1feb/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee85d901-f287-4ee9-900c-e176e9f20c4f.jpg">]]></description>
+            <link>https://thegrid.ai/patkaye/e4a87322-13e7-492e-a732-bba9088b1feb/index.html</link>
             <guid isPermaLink="false">e4a87322-13e7-492e-a732-bba9088b1feb</guid>
-            <pubDate>Tue, 09 Aug 2016 15:43:30 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2016 15:48:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
