@@ -1,17 +1,21 @@
-typography_spectrum: 0.2496010595932603
+typography_spectrum: 0.9783241045661271
 color:
-  saturation: 0.038564326940104365
-  brandStrength: 0.313209485495463
-  lightness: 0.09900227631442249
+  saturation: 0.5096053252927959
+  brandStrength: 0.15438150288537145
+  lightness: 0.6173969449009746
   brandColors:
-    - '#081D6A'
-    - '#D2001A'
-    - '#FFDC00'
-    - '#F8AC00'
-    - '#172863'
-  rhythmicContrast: 0.24528868775814772
+    - '#A40000'
+    - '#010001'
+    - '#FFFEFF'
+    - '#A8A7A8'
+    - '#C65F5F'
+  rhythmicContrast: 0.21779201459139585
 layout_spectrum: 0.34232451650314033
 name: PAT-K
+navigation:
+  - name: iTunes
+    id: e4a87322-13e7-492e-a732-bba9088b1feb
+    type: content
 collections:
   - index:
       path: /
