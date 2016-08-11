@@ -19,6 +19,10 @@ navigation:
   - name: Contact
     id: 02a45ca1-125f-49ac-9c5f-8fd4fcc2bd9d
     type: content
+  - name: Google Play
+    url: >-
+      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
+    type: external
 collections:
   - index:
       path: /
