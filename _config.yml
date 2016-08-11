@@ -1,4 +1,16 @@
-typography_spectrum: 0.7110840214882046
+title: PAT KAYE
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -10,9 +22,12 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.07657347363419831
-layout_spectrum: 0.08712571859359741
-name: PAT-K
+typography_spectrum: 0.4155068576801568
+description: LACK OF BUDGET
 navigation:
+  - name: iTunes
+    id: e4a87322-13e7-492e-a732-bba9088b1feb
+    type: content
   - name: Contact
     id: 02a45ca1-125f-49ac-9c5f-8fd4fcc2bd9d
     type: content
@@ -20,20 +35,5 @@ navigation:
     url: >-
       https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
     type: external
-  - name: iTunes
-    id: e4a87322-13e7-492e-a732-bba9088b1feb
-    type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: PAT KAYE
-description: LACK OF BUDGET
+layout_spectrum: 0.7723404
+name: PAT-K
