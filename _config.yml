@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 0.46404961682856083
 layout_spectrum: 0.5842733501922339
 name: PAT-K
+navigation:
+  - name: iTunes
+    id: e4a87322-13e7-492e-a732-bba9088b1feb
+    type: content
 collections:
   - index:
       path: /
