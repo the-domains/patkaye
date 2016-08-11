@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-11T15:35:10.720Z'
+datePublished: '2016-08-11T15:48:04.597Z'
 sourcePath: _posts/2016-08-11-century-to-come-pt-2.md
 author: []
 via: {}
-dateModified: '2016-08-11T15:35:10.355Z'
+dateModified: '2016-08-11T15:48:04.106Z'
 title: Century to Come Pt. 2
 publisher: {}
 description: I feel tired
@@ -44,7 +44,7 @@ Until the kingdom comes
 
 Please hold you're qualms
 
-    <iframe src="https://embed.spotify.com/?uri=spotify:track:0OTeiNxitt8OejdNK9LoSW" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+    <iframe src="https://widgets.itunes.apple.com/widget.html?c=us&brc=1d1b01&blc=1d1b01&trc=1d1b01&tlc=1d1b01&d=Lack of Budget Pat Kaye&t=Century to Come Pt. 2&m=song&e=song&w=250&h=300&ids=1142079459&wt=playlist&partnerId=&affiliate_id=&at=&ct=" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:250px;height: 300px;border:0px"></iframe>
 
 Henceforth "Pt. 2" Understood
 
