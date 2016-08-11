@@ -1,4 +1,4 @@
-typography_spectrum: 0.4155068576801568
+typography_spectrum: 0.7110840214882046
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -10,7 +10,7 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.07657347363419831
-layout_spectrum: 1
+layout_spectrum: 0.08712571859359741
 name: PAT-K
 navigation:
   - name: iTunes
