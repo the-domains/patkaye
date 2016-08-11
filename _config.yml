@@ -12,6 +12,10 @@ color:
   lightness: 0.07657347363419831
 layout_spectrum: 1
 name: PAT-K
+navigation:
+  - name: Contact
+    id: 6ff571be-15de-4922-ab76-be6553c8b2d6
+    type: content
 collections:
   - index:
       path: /
