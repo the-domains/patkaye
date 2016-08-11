@@ -1,20 +1,20 @@
 ---
-description: Before you’re placed in a casket
-dateModified: '2016-08-11T14:26:34.622Z'
-datePublished: '2016-08-11T14:27:11.033Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-11T14:56:14.225Z'
 sourcePath: _posts/2016-08-11-before-youre-placed-in-a-casket.md
+author: []
+via: {}
+dateModified: '2016-08-11T14:56:13.694Z'
+title: “Ask not…” -JFK
+publisher: {}
+description: Before you’re placed in a casket
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<iframe src="https://embed.spotify.com/?uri=spotify:track:10hgAxQZgrohLpuw4feuN3" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+# "Ask not..." -JFK
 
 Before you're placed in a casket
 
@@ -80,4 +80,4 @@ I did my chores so bad don't need a course
 
 Being an artist is a choice
 
-https://youtu.be/NoXmyc56cUM
+<iframe src="https://embed.spotify.com/?uri=spotify:track:10hgAxQZgrohLpuw4feuN3" width="300" height="380" frameborder="0" allowtransparency="true"\></iframe\>
