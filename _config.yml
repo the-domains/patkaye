@@ -1,4 +1,16 @@
-typography_spectrum: 0.7336889200378209
+title: PAT KAYE
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -10,8 +22,8 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.07657347363419831
-layout_spectrum: 1
-name: PAT-K
+typography_spectrum: 0.7336889200378209
+description: LACK OF BUDGET
 navigation:
   - name: iTunes
     id: e4a87322-13e7-492e-a732-bba9088b1feb
@@ -19,17 +31,5 @@ navigation:
   - name: Contact
     id: 1dbd0afe-a0f8-4078-9d42-a48cb94750f8
     type: content
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-title: PAT KAYE
-description: LACK OF BUDGET
+layout_spectrum: 0.7680851
+name: PAT-K
