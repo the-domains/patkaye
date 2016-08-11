@@ -1,4 +1,28 @@
-title: PAT KAYE
+typography_spectrum: 0.4155068576801568
+color:
+  saturation: 0.6540196472778916
+  brandStrength: 0.443769803037867
+  rhythmicContrast: 0.7665214303415269
+  brandColors:
+    - '#081D6A'
+    - '#D2001A'
+    - '#FFDC00'
+    - '#F8AC00'
+    - '#172863'
+  lightness: 0.07657347363419831
+layout_spectrum: 0.7723404
+name: PAT-K
+navigation:
+  - name: Contact
+    id: 02a45ca1-125f-49ac-9c5f-8fd4fcc2bd9d
+    type: content
+  - name: iTunes
+    id: e4a87322-13e7-492e-a732-bba9088b1feb
+    type: content
+  - name: Google Play
+    url: >-
+      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
+    type: external
 collections:
   - index:
       path: /
@@ -11,29 +35,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.6540196472778916
-  brandStrength: 0.443769803037867
-  rhythmicContrast: 0.7665214303415269
-  brandColors:
-    - '#081D6A'
-    - '#D2001A'
-    - '#FFDC00'
-    - '#F8AC00'
-    - '#172863'
-  lightness: 0.07657347363419831
-typography_spectrum: 0.4155068576801568
+title: PAT KAYE
 description: LACK OF BUDGET
-navigation:
-  - name: iTunes
-    id: e4a87322-13e7-492e-a732-bba9088b1feb
-    type: content
-  - name: Contact
-    id: 02a45ca1-125f-49ac-9c5f-8fd4fcc2bd9d
-    type: content
-  - name: Google Play
-    url: >-
-      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
-    type: external
-layout_spectrum: 0.7723404
-name: PAT-K
