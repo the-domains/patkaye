@@ -12,6 +12,10 @@ color:
   lightness: 0.07657347363419831
 layout_spectrum: 1
 name: PAT-K
+navigation:
+  - name: Spotify
+    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
+    type: external
 collections:
   - index:
       path: /
