@@ -16,6 +16,9 @@ navigation:
   - name: Spotify
     url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
     type: external
+  - name: PAT-K
+    url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
+    type: external
 collections:
   - index:
       path: /
