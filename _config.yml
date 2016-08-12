@@ -13,9 +13,6 @@ color:
 layout_spectrum: 1
 name: PAT-K
 navigation:
-  - name: Contact
-    id: e4a87322-13e7-492e-a732-bba9088b1feb
-    type: content
   - name: PAT-K
     url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
     type: external
