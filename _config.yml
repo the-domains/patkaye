@@ -1,4 +1,4 @@
-typography_spectrum: 0.951539920642972
+typography_spectrum: 0.15209103818051517
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -22,11 +22,11 @@ navigation:
   - name: iTunes
     url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
     type: external
-  - name: Spotify
-    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
-    type: external
   - name: Tidal
     url: 'https://listen.tidal.com/album/63795602'
+    type: external
+  - name: Spotify
+    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
     type: external
   - name: Amazon
     url: >-
@@ -44,5 +44,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: PAT KAYE
+title: PAT-K
 description: LACK OF BUDGET
