@@ -1,4 +1,4 @@
-typography_spectrum: 0.446606699610129
+typography_spectrum: 0.5100735854357481
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -10,7 +10,7 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.07657347363419831
-layout_spectrum: 0.05365768447518349
+layout_spectrum: 0.06922988640144467
 name: PAT-K
 navigation:
   - name: Contact
