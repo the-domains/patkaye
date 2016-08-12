@@ -17,6 +17,9 @@ navigation:
     url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
     type: external
   - name: iTunes
+    id: e4a87322-13e7-492e-a732-bba9088b1feb
+    type: content
+  - name: iTunes
     url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
     type: external
   - name: Spotify
@@ -29,9 +32,6 @@ navigation:
     url: >-
       https://www.amazon.com/s/ref=ntt_srch_drd_B01K1DV478?ie=UTF8&field-keywords=Pat%20Kaye&index=digital-music&search-type=ss
     type: external
-  - name: iTunes
-    id: e4a87322-13e7-492e-a732-bba9088b1feb
-    type: content
 collections:
   - index:
       path: /
