@@ -12,11 +12,6 @@ color:
   lightness: 0.07657347363419831
 layout_spectrum: 1
 name: PAT-K
-navigation:
-  - name: Google Play
-    url: >-
-      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
-    type: external
 collections:
   - index:
       path: /
