@@ -13,11 +13,11 @@ color:
 layout_spectrum: 1
 name: PAT-K
 navigation:
-  - name: Spotify
-    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
-    type: external
   - name: PAT-K
     url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
+    type: external
+  - name: Spotify
+    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
     type: external
   - name: iTunes
     url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
