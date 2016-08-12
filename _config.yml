@@ -26,6 +26,9 @@ navigation:
     url: >-
       https://www.amazon.com/s/ref=ntt_srch_drd_B01K1DV478?ie=UTF8&field-keywords=Pat%20Kaye&index=digital-music&search-type=ss
     type: external
+  - name: Tidal
+    url: 'https://listen.tidal.com/album/63795602'
+    type: external
 collections:
   - index:
       path: /
