@@ -19,11 +19,11 @@ navigation:
   - name: Tidal
     url: 'https://listen.tidal.com/album/63795602'
     type: external
-  - name: Spotify
-    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
-    type: external
   - name: iTunes
     url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
+    type: external
+  - name: Spotify
+    url: 'https://play.spotify.com/album/0Bp5hphrYFHPvaxxsWPpBk'
     type: external
   - name: Amazon
     url: >-
