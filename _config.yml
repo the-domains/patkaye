@@ -22,6 +22,10 @@ navigation:
   - name: iTunes
     url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
     type: external
+  - name: Amazon
+    url: >-
+      https://www.amazon.com/s/ref=ntt_srch_drd_B01K1DV478?ie=UTF8&field-keywords=Pat%20Kaye&index=digital-music&search-type=ss
+    type: external
 collections:
   - index:
       path: /
