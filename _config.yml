@@ -19,6 +19,9 @@ navigation:
   - name: PAT-K
     url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
     type: external
+  - name: iTunes
+    url: 'https://itunes.apple.com/us/album/lack-of-budget/id1142079201'
+    type: external
 collections:
   - index:
       path: /
