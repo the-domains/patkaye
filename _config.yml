@@ -1,4 +1,4 @@
-typography_spectrum: 0.15209103818051517
+typography_spectrum: 0.951539920642972
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -44,5 +44,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: PAT-K
+title: PAT KAYE
 description: LACK OF BUDGET
