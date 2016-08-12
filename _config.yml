@@ -1,16 +1,16 @@
-typography_spectrum: 0.15209103818051517
+typography_spectrum: 0.4106741009745747
 color:
-  saturation: 0.6540196472778916
-  brandStrength: 0.443769803037867
-  rhythmicContrast: 0.7665214303415269
+  saturation: 0.030459574656561017
+  brandStrength: 0.36585721117444336
+  rhythmicContrast: 0.21219354798085988
   brandColors:
     - '#081D6A'
     - '#D2001A'
     - '#FFDC00'
     - '#F8AC00'
     - '#172863'
-  lightness: 0.07657347363419831
-layout_spectrum: 1
+  lightness: 0.2933998361695558
+layout_spectrum: 0.6173323527909815
 name: PAT-K
 navigation:
   - name: PAT-K
