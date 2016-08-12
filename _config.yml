@@ -1,4 +1,4 @@
-typography_spectrum: 0.9867147791665047
+typography_spectrum: 0.15209103818051517
 color:
   saturation: 0.6540196472778916
   brandStrength: 0.443769803037867
@@ -10,19 +10,19 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.07657347363419831
-layout_spectrum: 0.06922988640144467
+layout_spectrum: 1
 name: PAT-K
 navigation:
-  - name: Google Play
-    url: >-
-      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
-    type: external
   - name: iTunes
     id: e4a87322-13e7-492e-a732-bba9088b1feb
     type: content
   - name: Contact
     id: 02a45ca1-125f-49ac-9c5f-8fd4fcc2bd9d
     type: content
+  - name: Google Play
+    url: >-
+      https://play.google.com/store/music/album/Pat_Kaye_Lack_of_Budget?id=B67ojy3nariysi6qocb5iqyhh4e&hl=en
+    type: external
 collections:
   - index:
       path: /
