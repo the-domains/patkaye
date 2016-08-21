@@ -1,8 +1,20 @@
-typography_spectrum: 0.4106741009745747
+title: PAT-K
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.030459574656561017
-  brandStrength: 0.36585721117444336
-  rhythmicContrast: 0.21219354798085988
+  saturation: 0.03045957465656102
+  brandStrength: 0.3658572111744434
+  rhythmicContrast: 0.2121935479808599
   brandColors:
     - '#081D6A'
     - '#D2001A'
@@ -10,8 +22,8 @@ color:
     - '#F8AC00'
     - '#172863'
   lightness: 0.2933998361695558
-layout_spectrum: 0.6173323527909815
-name: PAT-K
+typography_spectrum: 0.4106741009745747
+description: LACK OF BUDGET
 navigation:
   - name: PAT-K
     url: 'https://www.youtube.com/channel/UCOOB2omxQavA0g-tZcXgTSw'
@@ -29,17 +41,5 @@ navigation:
     url: >-
       https://www.amazon.com/s/ref=ntt_srch_drd_B01K1DV478?ie=UTF8&field-keywords=Pat%20Kaye&index=digital-music&search-type=ss
     type: external
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-title: PAT-K
-description: LACK OF BUDGET
+layout_spectrum: 1
+name: PAT-K
